@@ -5,6 +5,7 @@ author: davidiseminger
 ms.author: davidi
 ms.reviewer: ''
 ms.service: powerbi
+
 ms.subservice: pbi-transform-model
 ms.topic: how-to
 ms.date: 01/29/2020
